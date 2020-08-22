@@ -17,6 +17,11 @@
   "new_person_description": "UK election candidate",
   "mapping": {
     "election": {
+      "By-election, 20 January 1863": "Q98557527",
+      "By-election, 9 December 1862": "Q98557533",
+      "By-election, 21 April 1840": "Q98557534",
+      "By-election, 26 July 1839": "Q98557535",
+      "By-election, 17 February 1834": "Q98557536"
     },
     "party" : {
     }
