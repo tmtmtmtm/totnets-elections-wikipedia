@@ -1,0 +1,24 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Totnes_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q875285",
+    "start": "1997",
+    "end": "9999"
+  }, {
+    "id": "Q56189393",
+    "start": "1885",
+    "end": "1983"
+  }, {
+    "id": "Q56189395",
+    "start": "1801",
+    "end": "1868"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate",
+  "mapping": {
+    "election": {
+    },
+    "party" : {
+    }
+  }
+}
