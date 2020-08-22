@@ -108,10 +108,10 @@ Q3485213,John Pender,Q622441,Liberal Party (UK),210,Q2074533,General election 18
 Q4723426,Alfred Seymour,Q622441,Liberal Party (UK),204,Q2074533,General election 1865,2
 ,William Gregory Dawkins,Q9626,Conservative Party (UK),162,Q2074533,General election 1865,3
 Q4879118,Bedford Pim,Q9626,Conservative Party (UK),147,Q2074533,General election 1865,4
-Q4723426,Alfred Seymour,Q622441,Liberal Party (UK),165,,"By-election, 20 January 1863",1
-,John Dent,Q9626,Conservative Party (UK),157,,"By-election, 20 January 1863",2
-Q3485213,John Pender,Q622441,Liberal Party (UK),171,,"By-election, 9 December 1862",1
-,John Dent,Q9626,Conservative Party (UK),5,,"By-election, 9 December 1862",2
+Q4723426,Alfred Seymour,Q622441,Liberal Party (UK),165,Q98557527,"By-election, 20 January 1863",1
+,John Dent,Q9626,Conservative Party (UK),157,Q98557527,"By-election, 20 January 1863",2
+Q3485213,John Pender,Q622441,Liberal Party (UK),171,Q98557533,"By-election, 9 December 1862",1
+,John Dent,Q9626,Conservative Party (UK),5,Q98557533,"By-election, 9 December 1862",2
 Q5540333,George Hay,Q622441,Liberal Party (UK),180,Q4345445,General election 1859,1
 Q26720135,Thomas Mills,Q622441,Liberal Party (UK),152,Q4345445,General election 1859,2
 Q52840153,John Dunn,Q9626,Conservative Party (UK),135,Q4345445,General election 1859,3
@@ -125,12 +125,12 @@ Q24239144,Charles Barry Baldwin,Q9626,Conservative Party (UK),141,Q3943728,Gener
 Q3719921,Edward Seymour,Q108700,Whigs (British political party),280,Q2073198,General election 1847,1
 Q24239144,Charles Barry Baldwin,Q9626,Conservative Party (UK),154,Q2073198,General election 1847,2
 Q7410397,Samson Ricardo,Q108700,Whigs (British political party),153,Q2073198,General election 1847,3
-Q24239144,Charles Barry Baldwin,Q9626,Conservative Party (UK),158,,"By-election, 21 April 1840",1
-,Thomas Guy Gisborne,Q108700,Whigs (British political party),151,,"By-election, 21 April 1840",2
-Q24239144,Charles Barry Baldwin,Q9626,Conservative Party (UK),142,,"By-election, 26 July 1839",1
-,William Blount,Q108700,Whigs (British political party),142,,"By-election, 26 July 1839",2
-Q3719921,Edward Seymour,Q108700,Whigs (British political party),153,,"By-election, 17 February 1834",1
-,John Thomas Mayne,Q1687668,Radicals (UK),73,,"By-election, 17 February 1834",2
+Q24239144,Charles Barry Baldwin,Q9626,Conservative Party (UK),158,Q98557534,"By-election, 21 April 1840",1
+,Thomas Guy Gisborne,Q108700,Whigs (British political party),151,Q98557534,"By-election, 21 April 1840",2
+Q24239144,Charles Barry Baldwin,Q9626,Conservative Party (UK),142,Q98557535,"By-election, 26 July 1839",1
+,William Blount,Q108700,Whigs (British political party),142,Q98557535,"By-election, 26 July 1839",2
+Q3719921,Edward Seymour,Q108700,Whigs (British political party),153,Q98557536,"By-election, 17 February 1834",1
+,John Thomas Mayne,Q1687668,Radicals (UK),73,Q98557536,"By-election, 17 February 1834",2
 ,James Cornish,Q108700,Whigs (British political party),127,Q1582019,General election 1832,1
 ,Jasper Parrott,Q108700,Whigs (British political party),127,Q1582019,General election 1832,2
 Q5339721,Edmund Parker,Q499956,Tories (British political party),66,Q1582019,General election 1832,3
